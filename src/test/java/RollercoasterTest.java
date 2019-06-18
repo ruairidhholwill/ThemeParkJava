@@ -1,3 +1,4 @@
+import Attractions.Rollercoaster;
 import org.junit.Before;
 import org.junit.Test;
 

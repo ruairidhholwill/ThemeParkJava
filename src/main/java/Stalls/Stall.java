@@ -1,3 +1,5 @@
+package Stalls;
+
 public abstract class Stall {
 
     protected String name;

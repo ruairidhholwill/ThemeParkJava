@@ -1,3 +1,4 @@
+import Attractions.Dodgems;
 import org.junit.Before;
 import org.junit.Test;
 
