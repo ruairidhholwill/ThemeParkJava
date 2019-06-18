@@ -1,11 +1,11 @@
 package Attractions;
 
-import Attractions.Attraction;
+import ThemePark.IReviewed;
 
-public class Park extends Attraction {
+public class Park extends Attraction implements IReviewed {
 
-    public Park(String name){
-        super(name);
+    public Park(String name, int rating){
+        super(name, rating);
 
     }
 }

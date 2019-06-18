@@ -1,3 +1,5 @@
+package ThemePark;
+
 public interface IReviewed {
 
     public int getRating();
